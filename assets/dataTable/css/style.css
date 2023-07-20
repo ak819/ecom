@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Glyphicons Halflings";
+    src: url("../fonts/glyphicons-halflings-regular.woff2");
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.theadclass thead {
+    background-color: rgb(146, 146, 146);
+    color: #fff;
+}
+.theadclass btn-primary
+{
+	background-color: #499de0;
+}
+.theadclass btn-success
+{
+	background-color: #68963f;
+}
+thead th
+{
+	height:30px;
+}
+
+mark {
+    background-color: #f4f57a;
+    padding: 0;
+}
+
+button.dt-button, div.dt-button, a.dt-button {
+    padding: 0.3em 0.3em;
+}

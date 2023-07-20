@@ -1,0 +1,17 @@
+pending design part in biolife
+
+1.header changes manage login,register,myaccount,cart
+2.add today deal, new arrival on home page.
+3.product search with as like as agribegri.
+4.login & register page without header.
+5.responsive all pages.
+
+6.footer part confirmation
+
+ remove know us better , services
+
+7.terms and condition.
+
+8.todays deals pages. like agribegri
+
+9.Must check product view discount patterns and manage it.
